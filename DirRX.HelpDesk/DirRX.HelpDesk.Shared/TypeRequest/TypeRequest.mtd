@@ -66,6 +66,24 @@
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
       "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
       "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
+      "$type": "Sungero.Metadata.EnumPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "6baeffb4-2e84-4e53-b773-6ca8c083eddf",
+      "Name": "Type",
+      "Code": "Type",
+      "DirectValues": [
+        {
+          "NameGuid": "0ea2a76a-8ee3-4379-9a98-f304fae49b32",
+          "Name": "access",
+          "Code": "access"
+        },
+        {
+          "NameGuid": "cad4fc14-5cc0-4a1a-9fe6-09b2363bde0f",
+          "Name": "wish",
+          "Code": "wish"
+        }
+      ],
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToEnumerationBinder",
+      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
     }
   ],
   "PublicStructures": [],
